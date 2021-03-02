@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "tfar.playerlightlevelfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "playerlightlevelfix.refmap.json",
+  "mixins": [
+    "InventoryScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
